@@ -6,4 +6,4 @@ earthquakes. For time series forecasting of earthquake data, this study makes us
 better knowledge of the origins and effects of seismic activity, as well as to develop forecasting tools to assist in mitigating the effects of earthquakes on infrastructure and communities. The study's findings will help to improve understanding of earthquake trends in the United States, as well as support the creation of effective disaster mitigation and management policies and methods.
   <br>
   <br>
-  <b>website link:</b><a href="https://storymaps.arcgis.com/stories/ad2c1fc5cc6c4e17a6f039578ca2afb2">click</a>
+  <b>Project website: </b><a href="https://storymaps.arcgis.com/stories/ad2c1fc5cc6c4e17a6f039578ca2afb2">Click here</a>
