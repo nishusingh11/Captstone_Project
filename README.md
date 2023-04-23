@@ -1,4 +1,4 @@
-# Captstone_Project
+# Captstone Project
 <b>Analysis and experimental forecasting of earthquakes in the US</b>
   <br>
 <p><h8>The project covers an in-depth analysis of earthquake patterns in the United States, spanning area, year, and the top five earthquakes recorded in the country from 2000 to Feb 2023. The study involves collecting and analysing historical data, as well as employing experimental approaches to forecast future
